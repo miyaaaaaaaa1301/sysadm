@@ -1,0 +1,52 @@
+[
+  {
+    "id": "usr_mgr_01",
+    "username": "manager",
+    "name": "Operations Lead (Manager)",
+    "role": "Manager",
+    "salt": "fc71a18547b52ddf5be93f7f345ec88a",
+    "passwordHash": "f019c067a311e4a40a35420e381ba6f21483c90a63929ddaed795ec113f82c6f3c82499d9bf0ffde1a955e8142606f8070e0fc0fee196c5379248b67e0b5bff8",
+    "verified": true,
+    "createdAt": "2026-11-09T04:36:56.935Z"
+  },
+  {
+    "id": "usr_designer_01",
+    "username": "designer",
+    "name": "Elena Rostova",
+    "role": "Designer",
+    "salt": "3950b7d14dab3976a363430db17132e2",
+    "passwordHash": "d86cc95b3c8cc4b48cbc348e1a5baeb9cf99ad94deaf753ea57a47af8163f3392c3f55a76a7d1cc58009a1a6c708be8fddf53f5ea5482a2e97d47da55d6686ea",
+    "verified": true,
+    "createdAt": "2026-11-06T04:36:56.993Z"
+  },
+  {
+    "id": "usr_dev_01",
+    "username": "dev",
+    "name": "Marcus Chen",
+    "role": "Developer",
+    "salt": "dcd40f7749d584b463106a3a2380e20d",
+    "passwordHash": "0f3a60320d9c7e740ddbec10b48784c0469ede27c18b286ee964f515c0003f8991c2360ff9b2eaf59219e55f4815ef2e4e030ef9f69a300b7a2b7decf6020043",
+    "verified": true,
+    "createdAt": "2026-11-06T04:36:57.039Z"
+  },
+  {
+    "id": "usr_qa_01",
+    "username": "qa",
+    "name": "Sophia Miller",
+    "role": "QA",
+    "salt": "b519bd2ee5a0c69d50b71eb5f305ee74",
+    "passwordHash": "4e6bed0cae763a27a1d2339b169727bf4d105441e7b495258258a737445fda8a376b2a62c957995330d96eda68b97a0971644fc0d01470b448b1e201bde06ec3",
+    "verified": true,
+    "createdAt": "2026-11-06T04:36:57.084Z"
+  },
+  {
+    "id": "usr_1794199031142_cz4z",
+    "username": "newdev",
+    "name": "Alex Mercer",
+    "role": "Developer",
+    "salt": "8884fee8892ea6d961d02e792c6d1a5b",
+    "passwordHash": "e8a50c7c08d91485204937fa85a67a55c6e8a7d41ebb3e835159eab144f1952505719b52d172622f9d30f186b3fac3e83df6fdbf07cff651928f794c383cb456",
+    "verified": false,
+    "createdAt": "2026-11-09T04:37:11.142Z"
+  }
+]

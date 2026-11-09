@@ -1,0 +1,6 @@
+{
+  "name": "SysOps Team Hub",
+  "description": "Role-based engineering operations hub with real-time simulated telemetry, Kanban task tracking, Docker builds, PR reviews, QA runs, and release gating.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
